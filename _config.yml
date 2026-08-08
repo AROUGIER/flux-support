@@ -1,0 +1,9 @@
+# Configuration GitHub Pages du site d'assistance.
+#
+# Ce dossier est destiné à un dépôt **public séparé** : le code de Flux reste
+# privé, et GitHub ne publie Pages depuis un dépôt privé qu'avec un abonnement
+# payant. Voir docs/LIVRAISON.md §1.
+title: Flux
+description: Lecteur IPTV natif pour iPhone, iPad, Mac et Apple TV
+theme: jekyll-theme-minimal
+lang: fr
